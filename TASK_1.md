@@ -89,7 +89,7 @@ You have to fulfill one task (implementing register functionality). Your team le
 
 **To complete the task, fill out this form after implementation or after 1.5h passed:** 
 
--  [**Click here to access the Questionnaire**: #](#)
+-  [**Click here to access the Questionnaire**: https://forms.office.com/e/dkPHmvsk8n](https://forms.office.com/e/dkPHmvsk8n)
 
 
 <br/>

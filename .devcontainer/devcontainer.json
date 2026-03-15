@@ -1,6 +1,6 @@
 {
     "image":"mcr.microsoft.com/devcontainers/universal:2",
-    "postCreateCommand": "yarn install",
+    "postCreateCommand": "yarn install && yarn cache clean",
     "extensions": [
         "codelounge.tako",
         "hasel-alakmeh.telemetry-activity-tracker"
